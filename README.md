@@ -4,8 +4,15 @@ This repository is part of the SNEngine project and contains startup splash scre
 
 ## Splash Screen Videos
 
-- [SNEngine Splash Screen (Regular)](./SNEngine_Splash_Screen.mp4)
-- [SNEngine Splash Screen (FMOD)](./SNEngine_Splash_Screen_FMOD.mp4)
+### Regular Version
+<video src="SNEngine_Splash_Screen.mp4" width="640" height="360" controls>
+  Your browser does not support the video tag.
+</video>
+
+### FMOD Version
+<video src="SNEngine_Splash_Screen_FMOD.mp4" width="640" height="360" controls>
+  Your browser does not support the video tag.
+</video>
 
 ## Acknowledgments
 
