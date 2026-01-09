@@ -1,0 +1,9 @@
+*.sfk
+*.sfl
+*.veg.bak
+*.autosave.veg
+*.sfvp0
+/Rendered/
+/Temp/
+Thumbs.db
+desktop.ini
