@@ -1,4 +1,4 @@
-# SNEngineVegas
+# SNEngine Vegas
 
 This repository is part of the SNEngine project and contains startup splash screens (both FMOD and regular versions).
 
